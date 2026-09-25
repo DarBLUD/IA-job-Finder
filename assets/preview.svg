@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">IA Job Finder</title>
+  <desc id="desc">Illustration de la landing page IA Job Finder</desc>
+  <rect width="1200" height="630" fill="#f5f7f2"/>
+  <circle cx="950" cy="290" r="220" fill="#e4efbb"/>
+  <rect x="690" y="105" width="350" height="390" rx="20" fill="white" stroke="#e7ece3" stroke-width="2" transform="rotate(2 865 300)"/>
+  <rect x="745" y="165" width="240" height="12" rx="6" fill="#dfe6dc"/>
+  <rect x="745" y="208" width="180" height="18" rx="9" fill="#17231f"/>
+  <rect x="745" y="245" width="260" height="1" fill="#eef1ec"/>
+  <g fill="#d5f36c"><rect x="745" y="272" width="40" height="40" rx="12"/><rect x="745" y="340" width="40" height="40" rx="12"/><rect x="745" y="408" width="40" height="40" rx="12"/></g>
+  <g fill="#17231f"><circle cx="765" cy="292" r="6"/><circle cx="765" cy="360" r="6"/><circle cx="765" cy="428" r="6"/></g>
+  <g fill="#17231f" font-family="Arial, sans-serif"><text x="80" y="240" font-size="24" fill="#78923e" font-weight="bold">IA JOB FINDER</text><text x="80" y="310" font-size="64" font-weight="bold">Trouvez les</text><text x="80" y="378" font-size="64" font-weight="bold" fill="#839c47">bonnes offres.</text><text x="80" y="430" font-size="18" fill="#64736d">Une recherche d'emploi plus claire, plus ciblée.</text></g>
+</svg>
